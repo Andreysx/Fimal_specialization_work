@@ -81,5 +81,4 @@
 
 # РЕШЕНИЕ:
 
-1. 
-![1.png](C:\Users\андрей\Desktop\GEEKBRAINS\Итоговая по блоку специализация\Final_specialization_work\Pictures\1.png)
+1. ![1.png](/C:\Users\андрей\Desktop\GEEKBRAINS\Итоговая по блоку специализация\Final_specialization_work\Pictures\1.png)
