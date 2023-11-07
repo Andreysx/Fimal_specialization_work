@@ -82,4 +82,4 @@
 # РЕШЕНИЕ:
 
 1. 
-![1.png](..%2F..%2FLINUX%20TASKS%2F1.png)
+![1.png](/..%2FPictures%2F1.png)
