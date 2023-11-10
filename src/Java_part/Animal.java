@@ -22,4 +22,23 @@ public class Animal {
     public String getCommand() {
         return command;
     }
+
+public String getInfo(){
+        StringBuilder sb = new StringBuilder();
+        sb.append("\n");
+        sb.append(animalInfo());
+        return sb.toString();
+}
+public String animalInfo(){
+        String ani = toString();
+        return ani;
+}
+
+    @Override
+    public String toString() {
+        return "Animal{" +
+                "name='" + name + '\'' +
+                ", command='" + command + '\'' +
+                '}';
+    }
 }
